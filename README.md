@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/kunallpu9341-blip">
+  <a href="https://github.com/Kunalkumar93">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="">
