@@ -21,7 +21,7 @@
 ## 🚀 About Me
 
 - 🎓 Pursuing **B.Tech in Computer Science and Engineering** at **Lovely Professional University (LPU)** (2025–2029).
-- 📚 Currently in my **2nd semester**, strengthening my fundamentals in computer science.
+- 📚 Currently in my **3rd semester**, strengthening my fundamentals in computer science.
 - 💡 Passionate about **Software Development**, **Web Development**, **Data Science**, and **Artificial Intelligence**.
 - 🌱 Continuously learning and exploring new technologies to enhance my technical expertise.
 - 🎯 Driven by a **strong ambition** to become a skilled software developer and contribute to impactful real-world projects.
